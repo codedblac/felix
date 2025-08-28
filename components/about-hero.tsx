@@ -15,7 +15,7 @@ export function AboutHero() {
               <div className="grid gap-8 md:grid-cols-2 md:gap-12 items-start">
                 <div className="flex flex-col items-center md:items-start">
                   <Avatar className="h-64 w-64 border-4 border-primary/20 mb-6">
-                    <AvatarImage src="/felix-dp.png" alt="Felix Orina" />
+                    <AvatarImage src="/felix.png" alt="Felix Orina" />
                     <AvatarFallback className="text-6xl font-bold bg-primary/10 text-primary">FO</AvatarFallback>
                   </Avatar>
 
