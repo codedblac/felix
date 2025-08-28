@@ -24,10 +24,10 @@ export function ContactInfo() {
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-muted-foreground" />
                 <div className="flex-1">
-                  <p className="font-medium">felix@example.com</p>
+                  <p className="font-medium">felixorina@gmail.com</p>
                   <p className="text-sm text-muted-foreground">Email me anytime</p>
                 </div>
-                <Button variant="ghost" size="sm" onClick={() => copyToClipboard("felix@example.com")}>
+                <Button variant="ghost" size="sm" onClick={() => copyToClipboard("felixorina@gmail.com")}>
                   <Copy className="h-4 w-4" />
                 </Button>
               </div>
@@ -35,10 +35,10 @@ export function ContactInfo() {
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-muted-foreground" />
                 <div className="flex-1">
-                  <p className="font-medium">+254 700 000 000</p>
+                  <p className="font-medium">+254 714213413</p>
                   <p className="text-sm text-muted-foreground">Call or WhatsApp</p>
                 </div>
-                <Button variant="ghost" size="sm" onClick={() => copyToClipboard("+254 700 000 000")}>
+                <Button variant="ghost" size="sm" onClick={() => copyToClipboard("+254 714213413")}>
                   <Copy className="h-4 w-4" />
                 </Button>
               </div>
@@ -68,21 +68,21 @@ export function ContactInfo() {
             </CardHeader>
             <CardContent className="space-y-3">
               <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                <Link href="https://linkedin.com/in/felixorina" target="_blank" rel="noopener noreferrer">
+                <Link href="https://www.linkedin.com/in/felix-orina-shawn" target="_blank" rel="noopener noreferrer">
                   <Linkedin className="mr-2 h-4 w-4" />
                   LinkedIn - Professional Network
                 </Link>
               </Button>
 
               <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                <Link href="https://github.com/felixorina" target="_blank" rel="noopener noreferrer">
+                <Link href="https://github.com/codedblac" target="_blank" rel="noopener noreferrer">
                   <Github className="mr-2 h-4 w-4" />
                   GitHub - Code Repository
                 </Link>
               </Button>
 
               <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                <Link href="https://twitter.com/felixorina" target="_blank" rel="noopener noreferrer">
+                <Link href="https://x.com/AfricaEduos" target="_blank" rel="noopener noreferrer">
                   <Twitter className="mr-2 h-4 w-4" />
                   Twitter - Tech Updates
                 </Link>

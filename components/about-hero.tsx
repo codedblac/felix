@@ -15,7 +15,7 @@ export function AboutHero() {
               <div className="grid gap-8 md:grid-cols-2 md:gap-12 items-start">
                 <div className="flex flex-col items-center md:items-start">
                   <Avatar className="h-64 w-64 border-4 border-primary/20 mb-6">
-                    <AvatarImage src="/professional-headshot-of-felix-orina.png" alt="Felix Orina" />
+                    <AvatarImage src="/felix-dp.png" alt="Felix Orina" />
                     <AvatarFallback className="text-6xl font-bold bg-primary/10 text-primary">FO</AvatarFallback>
                   </Avatar>
 
@@ -36,19 +36,19 @@ export function AboutHero() {
 
                   <div className="flex gap-4">
                     <Button variant="outline" size="sm" asChild>
-                      <Link href="mailto:felix@example.com">
+                      <Link href="mailto:felixorina19@gmail.com">
                         <Mail className="h-4 w-4 mr-2" />
                         Email
                       </Link>
                     </Button>
                     <Button variant="outline" size="sm" asChild>
-                      <Link href="https://linkedin.com/in/felixorina" target="_blank" rel="noopener noreferrer">
+                      <Link href="https://www.linkedin.com/in/felix-orina-shawn" target="_blank" rel="noopener noreferrer">
                         <Linkedin className="h-4 w-4 mr-2" />
                         LinkedIn
                       </Link>
                     </Button>
                     <Button variant="outline" size="sm" asChild>
-                      <Link href="https://github.com/felixorina" target="_blank" rel="noopener noreferrer">
+                      <Link href="https://github.com/codedblac" target="_blank" rel="noopener noreferrer">
                         <Github className="h-4 w-4 mr-2" />
                         GitHub
                       </Link>

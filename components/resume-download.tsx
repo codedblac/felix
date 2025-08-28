@@ -24,10 +24,14 @@ export function ResumeDownload() {
                   </div>
                 </div>
               </div>
-              <Button size="lg" className="shrink-0">
-                <Download className="mr-2 h-4 w-4" />
-                Download PDF
-              </Button>
+
+              {/* ✅ DOWNLOAD BUTTON WITH LINK */}
+              <a href="/resume.pdf" download target="_blank" rel="noopener noreferrer">
+                <Button size="lg" className="shrink-0">
+                  <Download className="mr-2 h-4 w-4" />
+                  Download PDF
+                </Button>
+              </a>
             </div>
           </CardHeader>
 

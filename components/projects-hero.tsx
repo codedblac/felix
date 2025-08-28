@@ -14,7 +14,7 @@ export function ProjectsHero() {
           </p>
           <div className="mt-8">
             <Button variant="outline" asChild>
-              <Link href="https://github.com/felixorina" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/codedblac" target="_blank" rel="noopener noreferrer">
                 <Github className="mr-2 h-4 w-4" />
                 View All on GitHub
               </Link>

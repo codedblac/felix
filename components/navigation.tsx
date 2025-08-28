@@ -42,7 +42,7 @@ export function Navigation() {
             >
               <Avatar className="h-8 w-8 sm:h-10 sm:w-10">
                 <AvatarImage
-                  src="/professional-headshot-of-felix-orina.png"
+                  src="/felix-dp.png"
                   alt="Felix Orina"
                   className="object-cover"
                 />

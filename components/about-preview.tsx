@@ -22,7 +22,7 @@ export function AboutPreview() {
                 <div className="flex justify-center md:justify-start">
                   <Avatar className="h-24 w-24 sm:h-32 sm:w-32 md:h-40 md:w-40 lg:h-48 lg:w-48 border-4 border-primary/20">
                     <AvatarImage
-                      src="/professional-headshot-of-felix-orina.png"
+                      src="/felix-dp.png"
                       alt="Felix Orina"
                       className="object-cover"
                     />
@@ -61,7 +61,7 @@ export function AboutPreview() {
 
                     <Button variant="outline" asChild className="w-full sm:w-auto min-w-0 bg-transparent">
                       <Link
-                        href="https://linkedin.com/in/felixorina"
+                        href="https://www.linkedin.com/in/felix-orina-shawn"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center justify-center"
