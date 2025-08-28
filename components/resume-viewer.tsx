@@ -21,19 +21,19 @@ export function ResumeViewer() {
               </div>
               <div className="flex items-center gap-1">
                 <Mail className="h-4 w-4" />
-                felix@example.com
+                felixorina19@gmail.com
               </div>
               <div className="flex items-center gap-1">
                 <Phone className="h-4 w-4" />
-                +254 700 000 000
+                +254 714213413
               </div>
               <div className="flex items-center gap-1">
                 <Linkedin className="h-4 w-4" />
-                linkedin.com/in/felixorina
+                linkedin.com/in/felix-orina-shawn
               </div>
               <div className="flex items-center gap-1">
                 <Github className="h-4 w-4" />
-                github.com/felixorina
+                github.com/codedblac
               </div>
             </div>
           </CardHeader>
