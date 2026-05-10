@@ -24,7 +24,7 @@ export function ContactInfo() {
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-muted-foreground" />
                 <div className="flex-1">
-                  <p className="font-medium">felixorina@gmail.com</p>
+                  <p className="font-medium">felixorina19@gmail.com</p>
                   <p className="text-sm text-muted-foreground">Email me anytime</p>
                 </div>
                 <Button variant="ghost" size="sm" onClick={() => copyToClipboard("felixorina@gmail.com")}>
