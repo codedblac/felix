@@ -27,7 +27,7 @@ const featuredProjects = [
     description: "Responsive portfolio website showcasing projects and skills with dark/light mode support.",
     image: "/modern-portfolio-website.png",
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"],
-    liveUrl: "https://felix-portfolio-ruddy.vercel.app/",
+    liveUrl: "https://felix.technopickltd.com/",
     githubUrl: "https://github.com/codedblac/felix",
   },
 ]
